@@ -7,8 +7,6 @@
   --font-accent: 'PressStart2P';
 }
 
-
-
 @media (prefers-color-scheme: light) {
   :root {
     --bg-color: #fff;
